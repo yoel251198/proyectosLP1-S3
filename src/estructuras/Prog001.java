@@ -15,7 +15,7 @@ public class Prog001 {
     public static void main(String[] args) {
         try (Scanner teclado = new Scanner(System.in)) {
             int numero;
-            System.out.println("numero:  ");
+            System.out.println("numero:   ");
             numero = Integer.valueOf(teclado.nextLine());
             if (numero % 2 == 0){
                 System.out.println("Resultado = PAR");

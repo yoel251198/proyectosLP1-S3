@@ -31,5 +31,6 @@ public class prog005 {
             System.out.println(a);
             a++;
         }while (a <= b);
+        teclado.close();
     }
 }

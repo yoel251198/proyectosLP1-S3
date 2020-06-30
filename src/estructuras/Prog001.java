@@ -22,6 +22,7 @@ public class Prog001 {
             }
             else { System.out.println("Resultado = IMPAR");
             }
+            
         }
         
     }
